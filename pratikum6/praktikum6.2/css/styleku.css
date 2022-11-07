@@ -1,0 +1,53 @@
+h1{
+    color: black;
+}
+#header{
+    background-color: green;
+    text-align: center;
+}
+blockquote{
+    background-color: rgb(47, 97, 47);
+    color: white;
+}
+.atas{
+    text-align: center;
+}
+.atas ul{
+    list-style: none;
+}
+.gambar{
+    text-align: center;
+}
+.gambar img{
+    width: 30%;
+}
+.koleksi{
+    text-align: center;
+}
+.koleksi img{
+    width: 23%;
+}
+.promo{
+    text-align: center;
+}
+.promo ol{
+    list-style-type: none;
+}
+.promo h3{
+    color: blue;
+    font-style: oblique;
+    font-size: 150%;
+}
+.all{
+    background-color: greenyellow;
+}
+.jawa{
+    font-style: unset;
+    font-size: 350%;
+    color: rgb(0, 55, 255);
+}
+.diskon{
+    background-color:rgb(47, 97, 47);
+    color: orangered;
+    font-size: 180%;
+}
